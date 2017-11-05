@@ -8,4 +8,4 @@ This is the only C# program I wrote, back in 2011 (I was in "Quatrième", the Fr
 
 My old class schedule is still in the source code, but you can of course modify the code to put yours instead.
 
-I will eventually rewrite this entirely to make it more convinient.
+It's on my github as a souvenir, but I will eventually rewrite this entirely to make it more convinient.
