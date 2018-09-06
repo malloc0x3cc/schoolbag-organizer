@@ -100,6 +100,5 @@ class Program
 
         Console.WriteLine("\n\npress enter to quit");
         Console.ReadLine();
-        //First release : 01 December 2011.
     }
 }
